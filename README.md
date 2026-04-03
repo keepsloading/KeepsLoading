@@ -1,3 +1,10 @@
+## 🔗
+
+[![GitHub](https://img.shields.io/badge/GitHub-Memact-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memact)
+[![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
+
+---
+
 # Hi, I'm Sujay (Keeps Loading) 👋
 
 Still loading. Always will be.
@@ -30,8 +37,7 @@ I build systems that show how digital environments shape thinking.
 
 ## 🧠 Belief
 
-> English is becoming a programming language.  
-> (thinking → prompting → systems)
+> English is becoming a programming language.
 
 ---
 
@@ -42,8 +48,4 @@ searchable memory + influence mapping
 
 ---
 
-## 🔗
-
-[![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Memact-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memact)
-[![Codex](https://img.shields.io/badge/Codex-black?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/features/copilot)
+Still loading.
