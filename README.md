@@ -1,41 +1,47 @@
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memact)
-[![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
----
-
 # Hi, I'm Sujay (KeepsLoading) 👋
 
 Still loading. Always will be.
 
-I build systems that show how digital environments shape thinking.
+I build systems that explore how digital environments shape the way people think.
 
 ---
 
 ## 🧠 Current Work
 
-- **Memact**: You enter your thought/idea, it backs it up with sources of that particular idea from your digital activity. The project is under construction
-- **Memact AutoMod Discord Bot**: A successfully deployed discord bot covering massive number of moderator functions.
+### Memact (in progress)
+A system that connects your thoughts to patterns in your digital activity.  
+Trying to answer: *where do your ideas actually come from?*
+
+- Working on mapping inputs → behavioral patterns  
+- Experimenting with how digital signals can explain thought formation  
+
+### Memact AutoMod Discord Bot
+A deployed Discord bot handling moderation and server management.
+
+- Automates moderation tasks  
+- Manages roles and basic server utilities  
+- Built and used in live environments  
 
 ---
 
 ## ⚡ Focus
-
-- Cognitive Science
-- Artifical Intelligence
-- Human–AI interaction  
+- AI  
+- Cognitive Science  
+- Human–AI Interaction  
 
 ---
 
-## 🧩 Philosophy
+## 🧩 How I Think
 
-> Don’t tell users what they are.  
-> Show them how they became this way.
+I’m less interested in telling users what they are.  
+More interested in showing how they got there.
 
 ---
 
 ## 🧠 Belief
 
-> English is becoming a programming language.
+English is slowly becoming a new programming language.
 
 ---
 
-Still loading.
+Still loading...
