@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/GitHub-Memact-000?style=flat&logo=github&logoColor=white)](https://github.com/Memact) [![Memact](https://img.shields.io/badge/Memact-memact.com-000?style=flat&logoColor=white)](https://memact.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memact) [![Memact](https://img.shields.io/badge/-Memact-00011B?style=for-the-badge&logoColor=white)](https://memact.com)
 # Hi, I'm Sujay (KeepsLoading) 👋
 
 Still loading. Always will be.
