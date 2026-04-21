@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/GitHub-keepsloading-00011B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keepsloading)
+[![GitHub](https://img.shields.io/badge/GitHub-keepsloading-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keepsloading)
 [![Memact](https://img.shields.io/badge/Memact-memact.com-00011B?style=for-the-badge)](https://memact.com)
 # Hi, I'm Sujay (KeepsLoading) 👋
 
