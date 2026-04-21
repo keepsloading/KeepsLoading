@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/badge/GitHub-keepsloading-181717?style=for-the-badge&logo=github)](https://github.com/keepsloading)
+[![Memact](https://img.shields.io/badge/Project-Memact-blue?style=for-the-badge)](https://memact.com)
 # Hi, I'm Sujay (KeepsLoading) 👋
 
 Still loading. Always will be.
