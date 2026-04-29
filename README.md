@@ -16,7 +16,7 @@ Breaking down signals like clickbait, urgency, fear, outrage, and polarization.
 **Endlessly**  
 An endless running game built under tight constraints.  
 Focused on how simple mechanics and scoring can keep users hooked.  
-(Not published — it wasn’t the main focus of the project)
+(Not published. It wasn’t the main focus of the project)
 
 ### Other
 
