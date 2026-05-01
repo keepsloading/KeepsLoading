@@ -27,7 +27,7 @@ Handles roles, automates moderation, and keeps things running without manual eff
 
 ## 🧠 Ongoing Work
 
-**Memact (in progress)**  
+**Memact**  
 A system that connects your thoughts to the digital patterns that may have shaped them.
 
 Trying to answer: where do ideas come from?
