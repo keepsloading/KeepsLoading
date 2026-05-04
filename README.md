@@ -1,4 +1,5 @@
-[![Memact](https://img.shields.io/badge/-Memact-00011B?style=for-the-badge&logoColor=white)](https://github.com/Memact) [![Boundier](https://img.shields.io/badge/-Boundier-004aad?style=for-the-badge&logoColor=white)](https://github.com/keepsloading/Boundier)
+[![MemAct](https://img.shields.io/badge/-MemAct-00011B?style=for-the-badge&logoColor=white)](https://github.com/MemAct) [![Boundier](https://img.shields.io/badge/-Boundier-004aad?style=for-the-badge&logoColor=white)](https://github.com/keepsloading/Boundier)
+
 # Hi, I'm Sujay (Keeps Loading) 👋
 
 Rather than just tech, I’m also interested in how people think, where ideas come from, and how the digital world quietly shapes that. I also believe that English is becoming a new programming language. Well, you know what I mean.
@@ -19,15 +20,15 @@ Focused on how simple mechanics and scoring can keep users hooked.
 
 ### Other
 
-**Memact AutoMod Discord Bot**  
-A moderation and utility bot built for the Memact Discord server.  
+**MemAct AutoMod Discord Bot**  
+A moderation and utility bot built for the MemAct Discord server.  
 Handles roles, automates moderation, and keeps things running without manual effort.
 
 ---
 
 ## 🧠 Ongoing Work
 
-**Memact**  
+**MemAct**  
 A system that connects your thoughts to the digital patterns that may have shaped them.
 
 Trying to answer: where do ideas come from?
