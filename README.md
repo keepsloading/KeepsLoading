@@ -10,12 +10,7 @@ Rather than just tech, I’m also interested in how people think, where ideas co
 ### IIT Bombay GenAI Hackathon (1st Place)
 
 **Boundier**  
-A local-first browser extension for detecting clickbait, emotional pressure, and manipulative framing on webpages.
-
-**Endlessly**  
-An endless running game built under tight constraints.  
-Focused on how simple mechanics and scoring can keep users hooked.  
-(Not published. It wasn’t the main focus of the project)
+A local-first browser extension for Rustmeter-based influence-pressure analysis on webpages. It scores visible language patterns locally and shows evidence-linked signals behind the result.
 
 ### Other
 
