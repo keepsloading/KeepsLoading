@@ -1,7 +1,10 @@
-[![Memact](https://img.shields.io/badge/-Memact-00011B?style=for-the-badge&logoColor=white)](https://github.com/Memact) [![Boundier](https://img.shields.io/badge/-Boundier-004aad?style=for-the-badge&logoColor=white)](https://github.com/keepsloading/Boundier)
+[![Memact GitHub](https://img.shields.io/badge/Memact-GitHub-00011B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memact)
+[![Boundier GitHub](https://img.shields.io/badge/Boundier-GitHub-004aad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keepsloading/Boundier)
+[![Memact Website](https://img.shields.io/badge/Memact-Website-00011B?style=for-the-badge&logo=https%3A%2F%2Fwww.memact.com%2Ficon.png&logoColor=white)](https://www.memact.com/)
+
 # Hi, I'm Sujay (Keeps Loading) 👋
 
-Rather than just tech, I’m also interested in how people think, where ideas come from, and how the digital world quietly shapes that. I also believe that English is becoming a new programming language. Well, you know what I mean.
+I’m interested in memory systems, human–AI interaction, and how useful digital activity can become structured context for apps and models. I also believe English is becoming a new programming language. Well, you know what I mean.
 
 ---
 
@@ -26,13 +29,12 @@ Handles roles, automates moderation, and keeps things running without manual eff
 ## 🧠 Ongoing Work
 
 **Memact**  
-A system that connects your thoughts to the digital patterns that may have shaped them.
+A permissioned memory infrastructure layer that turns useful captured activity into structured memory for apps and models.
 
-Trying to answer: where do ideas come from?
+It works around evidence, nodes, edges, schema packets, and scoped access.
 
 ---
 
 ## ⚡ Focus
-AI · Cognitive Science · Human–AI Interaction
 
----
+AI · Memory Systems · Cognitive Science · Human–AI Interaction
