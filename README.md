@@ -1,6 +1,6 @@
-[![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=https%3A%2F%2Fwww.memact.com%2Ficon.png&logoColor=white)](https://github.com/Memact)
+[![Memact](https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memact)
 [![Boundier](https://img.shields.io/badge/Boundier-004aad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keepsloading/Boundier)
-[![Memact Website](https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=https%3A%2F%2Fwww.memact.com%2Ficon.png&logoColor=white)](https://www.memact.com/)
+[![Memact.com](https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.memact.com/)
 
 # Hi, I'm Sujay (Keeps Loading) 👋
 
