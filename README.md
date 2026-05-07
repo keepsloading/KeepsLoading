@@ -12,6 +12,9 @@ Rather than just tech, I’m also interested in how people think, where ideas co
 **Boundier**  
 A local-first browser extension for Rustmeter-based influence-pressure analysis on webpages. It scores visible language patterns locally and shows evidence-linked signals behind the result.
 
+**Endlessly**  
+A small Tkinter endless-runner prototype built in the first few minutes of the hackathon, before we risked the rest of our time on Boundier.
+
 ### Other
 
 **Memact AutoMod Discord Bot**  
