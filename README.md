@@ -30,11 +30,9 @@ Handles roles, automates moderation, and keeps things running without manual eff
 ## 🧠 Ongoing Work
 
 **Memact**  
-Memact helps apps understand what users are trying to do from digital activity the user has approved.
+Memact is a playground where apps personalize based on what users choose to share.
 
-It works around consent, activity categories, evidence, nodes, edges, schema packets, memory, and scoped app access.
-
-The current focus is building the intent prediction layer: taking approved activity and returning a clear prediction with the evidence behind it.
+Apps send signals, Memact turns them into useful memory, and users stay able to see and control what each app can use.
 
 ---
 
