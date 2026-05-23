@@ -30,7 +30,7 @@ Handles roles, automates moderation, and keeps things running without manual eff
 ## 🧠 Ongoing Work
 
 **Memact**  
-Memact is a playground where apps personalize based on what users choose to share.
+Memact is a playground where apps personalize around what users choose.
 
 Apps send signals, Memact turns them into useful memory, and users stay able to see and control what each app can use.
 
