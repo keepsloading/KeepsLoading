@@ -5,24 +5,26 @@
 <h1 align="center">Keeps Loading</h1>
 
 <p align="center">
-  <strong>Builder - Explorer - Memory systems person</strong>
+  <strong>Builder · Explorer · Memory systems person</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/keepsloading/Boundier"><img src="https://img.shields.io/badge/Boundier-004aad?style=for-the-badge&logo=github&logoColor=white" alt="Boundier" /></a>
   <a href="https://github.com/Memact"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=github&logoColor=white" alt="Memact" /></a>
   <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Memact.com" /></a>
-  <a href="https://discord.gg/WjKDeWuGy5"><img src="https://img.shields.io/badge/Memact_Discord-00011B?style=for-the-badge&logo=discord&logoColor=white" alt="Memact Discord" /></a>
+  <a href="https://discord.gg/WjKDeWuGy5"><img src="https://img.shields.io/badge/Memact_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Memact Discord" /></a>
 </p>
 
 ---
 
 ## Ongoing Work
 
-**Memact**<br>
-Memact is a playground where apps personalize around what users choose.
+**Memact**  
+A place where you can finally see what apps know about you.
 
-Apps bring context, users control memory, and apps personalize better without making people rebuild themselves inside every app.
+I am building Memact as a user-controlled memory layer for apps. Apps can bring context, but users decide what stays, what changes, and what gets removed.
+
+The goal is simple: better personalization without every app secretly rebuilding a version of you from scratch.
 
 ## Previous Work
 
@@ -37,4 +39,4 @@ A moderation and utility bot built for the Memact Discord server.
 
 ## Focus
 
-Memory systems - Human-computer interaction - Developer tools - Product-shaped software
+Memory systems · Human-computer interaction · Developer tools · Product-shaped software
