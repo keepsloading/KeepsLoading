@@ -32,7 +32,3 @@ A small Tkinter endless-runner prototype built in the first few minutes of the I
 
 **Memact AutoMod Discord Bot**  
 A moderation and utility bot built for the Memact Discord server.
-
-## Focus
-
-Memory systems · Human-computer interaction · Developer tools · Product-shaped software
