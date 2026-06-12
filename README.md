@@ -5,10 +5,6 @@
 <h1 align="center">Keeps Loading</h1>
 
 <p align="center">
-  <strong>Builder · Explorer · Memory systems person</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/keepsloading/Boundier"><img src="https://img.shields.io/badge/Boundier-004aad?style=for-the-badge&logo=github&logoColor=white" alt="Boundier" /></a>
   <a href="https://github.com/Memact"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=github&logoColor=white" alt="Memact" /></a>
   <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Memact.com" /></a>
