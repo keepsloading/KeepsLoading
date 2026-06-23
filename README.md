@@ -20,8 +20,6 @@ A place where you can finally see what apps know about you.
 
 I am building Memact as a user-controlled memory layer for apps. Apps can bring context, but users decide what stays, what changes, and what gets removed.
 
-The goal is simple: better personalization without every app secretly rebuilding a version of you from scratch.
-
 ## Previous Work
 
 **Boundier**  
