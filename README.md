@@ -42,7 +42,7 @@ A moderation and utility automation bot built to manage and maintain the Memact 
 An open-source organisation building a user-controlled data and memory layer for applications.
 
 > [!NOTE]
-> Memact is currently in active development and has been selected under **SSoC26** (Season of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
+> Memact is currently in active development and has been selected under **SSoC26** (Social Summer of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
 
 ---
 
