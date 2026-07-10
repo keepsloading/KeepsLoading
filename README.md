@@ -26,7 +26,7 @@ A real-time "persuasion and hype detector" Chrome extension. It highlights emoti
 ### Endlessly
 A Python Tkinter endless-runner game prototype built during the opening hours of the GenAI Hackathon.
 
-### Memact AutoMod Discord Bot
+### Memact AutoMod
 A moderation and utility automation bot built to manage and maintain the Memact Discord community server.
 
 ---
