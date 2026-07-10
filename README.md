@@ -12,6 +12,11 @@
 
 ---
 
+## 🧠 About
+My social handle is **keeps loading** and I am most active on Discord and GitHub. My real name is **Sujay Sudhir**, and my brain "keeps loading" new project ideas. I am about to enter University as an undergraduate student soon, pursuing a BTech in Artificial Intelligence.
+
+---
+
 ## Projects
 
 ### Boundier
@@ -26,7 +31,7 @@ A real-time "persuasion and hype detector" Chrome extension. It highlights emoti
 ### Endlessly
 A Python Tkinter endless-runner game prototype built during the opening hours of the GenAI Hackathon.
 
-### Memact AutoMod
+### Memact AutoMod Discord Bot
 A moderation and utility automation bot built to manage and maintain the Memact Discord community server.
 
 ---
@@ -37,10 +42,9 @@ A moderation and utility automation bot built to manage and maintain the Memact 
 An open-source organisation building a user-controlled data and memory layer for applications.
 
 > [!NOTE]
-> Memact is currently in active development (incomplete) and has been selected under **SSoC26** (Season of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
+> Memact is currently in active development and has been selected under **SSoC26** (Season of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
 
 ---
 
-## 💡 Fun Fact
-
-> I use tools like Antigravity, Codex and sometimes Replit for generating projects in languages I don't know. However, I always ensure to understand the core engineering principles behind it and actively decide what should exist and what shouldn't.
+## ⚡ Fun Fact
+I use tools like **Antigravity**, **Codex**, and sometimes **Replit** for generating projects in languages I don't know. However, I always ensure to understand the core engineering principles behind them and actively decide what should exist and what shouldn't.
