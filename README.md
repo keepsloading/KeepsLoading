@@ -42,5 +42,5 @@ An open-source organisation building a user-controlled data and memory layer for
 ---
 
 ## 💡 Fun Fact
-> [!NOTE]
+
 > I use tools like Antigravity, Codex and sometimes Replit for generating projects in languages I don't know. However, I always ensure to understand the core engineering principles behind it and actively decide what should exist and what shouldn't.
