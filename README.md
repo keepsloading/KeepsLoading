@@ -6,7 +6,7 @@
   <a href="https://github.com/keepsloading/Boundier"><img src="https://img.shields.io/badge/Boundier-000543?style=for-the-badge&logo=github&logoColor=white" alt="Boundier" /></a>
   <a href="https://github.com/keepsloading/Cognitive-Firewall"><img src="https://img.shields.io/badge/Cognitive Firewall-181825?style=for-the-badge&logo=github&logoColor=white" alt="Cognitive Firewall" /></a>
   <a href="https://github.com/Memact"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=github&logoColor=white" alt="Memact" /></a>
-  <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Memact.com" /></a>
+  <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Memact.com (Broken)" /></a>
   <a href="https://discord.gg/WjKDeWuGy5"><img src="https://img.shields.io/badge/Memact_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Memact Discord" /></a>
 </p>
 
