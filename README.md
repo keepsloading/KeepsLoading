@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="./assets/loading.gif" alt="Keeps Loading animation" width="180" />
+  <img src="https://raw.githubusercontent.com/keepsloading/keepsloading/main/assets/header.svg" alt="Keeps Loading" width="480" />
 </p>
 
-<h1 align="center">Keeps Loading</h1>
-
 <p align="center">
-  <a href="https://github.com/keepsloading/Boundier"><img src="https://img.shields.io/badge/Boundier-000543?style=for-the-badge&logo=github&logoColor=white" alt=Boundier" /></a>
+  <a href="https://github.com/keepsloading/Boundier"><img src="https://img.shields.io/badge/Boundier-000543?style=for-the-badge&logo=github&logoColor=white" alt="Boundier" /></a>
   <a href="https://github.com/keepsloading/Cognitive-Firewall"><img src="https://img.shields.io/badge/Cognitive Firewall-181825?style=for-the-badge&logo=github&logoColor=white" alt="Cognitive Firewall" /></a>
   <a href="https://github.com/Memact"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=github&logoColor=white" alt="Memact" /></a>
   <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Memact.com" /></a>
@@ -14,24 +12,35 @@
 
 ---
 
-## Ongoing Work
+## Projects
 
-**Memact**  
-A place where you can finally see what apps know about you.
+### Boundier
+An autonomous browser-based Discord AI companion operating directly through ChatGPT's web interface.
 
-I am building Memact as a user-controlled memory layer for apps. Apps can bring context, but users decide what stays, what changes, and what gets removed.
+### Cognitive Firewall
+A real-time "persuasion and hype detector" Chrome extension. It highlights emotional pressure, fear-mongering, and exaggerated persuasion cues in web text, articles, and video descriptions.
 
-## Previous Work
-
-**Cognitive Firewall**  
-A local-first tool for spotting influence pressure in online content. It analyzes visible language patterns across webpages, social feeds, and video page metadata with deterministic scoring and evidence-linked explanations.
-
-**Endlessly**  
-A small Tkinter endless-runner prototype built in the first few minutes of the IIT Bombay GenAI Hackathon, before we risked the rest of our time on Cognitive Firewall.
-
-**Memact AutoMod Discord Bot**  
-A moderation and utility bot built for the Memact Discord server.
-
-## 💡 Naming Context
 > [!NOTE]
 > I always liked the name **Boundier** and I named it at the hackathon. However, the name now suits for another project I built (an autonomous Discord bot). This project has been renamed from **Boundier** to **Cognitive Firewall** to make room for it.
+
+### Endlessly
+A Python Tkinter endless-runner game prototype built during the opening hours of the GenAI Hackathon.
+
+### Memact AutoMod Discord Bot
+A moderation and utility automation bot built to manage and maintain the Memact Discord community server.
+
+---
+
+## Organisations
+
+### Memact
+An open-source organisation building a user-controlled data and memory layer for applications.
+
+> [!NOTE]
+> Memact is currently in active development (incomplete) and has been selected under **SSoC26** (Season of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
+
+---
+
+## 💡 Fun Fact
+> [!NOTE]
+> I use tools like Antigravity, Codex and sometimes Replit for generating projects in languages I don't know. However, I always ensure to understand the core engineering principles behind it and actively decide what should exist and what shouldn't.
