@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keepsloading/keepsloading/main/assets/header.svg" alt="Keeps Loading" width="480" />
+  <img src="https://raw.githubusercontent.com/keepsloading/keepsloading/main/assets/header.svg" alt="Keeps Loading" />
 </p>
 
 <p align="center">
@@ -13,38 +13,38 @@
 ---
 
 ## 🧠 About
-My social handle is **keepsloading** and I am most active on Discord and GitHub. My real name is **Sujay Sudhir**, and my brain 'keeps loading' new project ideas. I am about to enter University as an undergraduate student soon, pursuing a BTech in Artificial Intelligence.
+My social handle is **keeps loading** and I am most active on **Discord** and **GitHub**. My real name is **Sujay Sudhir**, and my brain **"keeps loading"** new project ideas. I am about to enter University as an undergraduate student soon, pursuing a **BTech in Artificial Intelligence**.
 
 ---
 
 ## Projects
 
 ### Boundier
-An autonomous browser-based Discord AI companion operating directly through ChatGPT's web interface.
+An **autonomous browser-based** Discord AI companion operating directly through **ChatGPT's web interface** using headless browser automation.
 
 ### Cognitive Firewall
-A real-time "persuasion and hype detector" Chrome extension. It highlights emotional pressure, fear-mongering, and exaggerated persuasion cues in web text, articles, and video descriptions.
+A **real-time "persuasion and hype detector"** Chrome extension. It highlights **emotional pressure**, **fear-mongering**, and **exaggerated persuasion cues** in web text, articles, and video descriptions.
 
 > [!NOTE]
 > I always liked the name **Boundier** and I named it at the hackathon. However, the name now suits for another project I built (an autonomous Discord bot). This project has been renamed from **Boundier** to **Cognitive Firewall** to make room for it.
 
 ### Endlessly
-A Python Tkinter endless-runner game prototype built during the opening hours of the GenAI Hackathon.
+A Python **Tkinter endless-runner** game prototype built during the opening hours of the **IIT Bombay GenAI Hackathon**.
 
 ### Memact AutoMod Discord Bot
-A moderation and utility automation bot built to manage and maintain the Memact Discord community server.
+A **moderation and utility automation bot** built to manage and maintain the **Memact Discord community server**.
 
 ---
 
 ## Organisations
 
 ### Memact
-An open-source organisation building a user-controlled data and memory layer for applications.
+An **open-source organisation** building a **user-controlled data and memory layer** for modern applications.
 
 > [!NOTE]
-> Memact is currently in active development and has been selected under **SSoC26** (Social Summer of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
+> Memact is currently in active development and has been selected under **SSoC26** (Season of Code 2026). Multiple open-source contributors are actively collaborating on its codebase.
 
 ---
 
-## 👇 By the way
-I use tools like **Antigravity**, **Codex**, and sometimes **Replit** for generating projects in languages I don't know. However, I always ensure to understand the core engineering principles behind them and actively decide what should exist and what shouldn't.
+## ⚡ Fun Fact
+I use tools like **Antigravity**, **Codex**, and sometimes **Replit** for generating projects in languages I don't know. However, I always ensure to **understand the core engineering principles** behind them and **actively decide** what should exist and what shouldn't.
