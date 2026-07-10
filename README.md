@@ -17,28 +17,28 @@ My social handle is **keepsloading** and I am most active on **Discord** and **G
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Boundier
+### 🤖 Boundier
 An **autonomous browser-based** Discord AI companion operating directly through **ChatGPT's web interface** using headless browser automation.
 
-### Cognitive Firewall
+### 🧠 Cognitive Firewall
 A **real-time "persuasion and hype detector"** Chrome extension. It highlights **emotional pressure**, **fear-mongering**, and **exaggerated persuasion cues** in web text, articles, and video descriptions.
 
 > [!NOTE]
 > I always liked the name **Boundier** and I named it at the hackathon. However, the name now suits for another project I built (an autonomous Discord bot). This project has been renamed from **Boundier** to **Cognitive Firewall** to make room for it.
 
-### Endlessly
+### 🏃 Endlessly
 A Python **Tkinter endless-runner** game prototype built during the opening hours of the **IIT Bombay GenAI Hackathon**.
 
-### Memact AutoMod Discord Bot
+### 🛡️ Memact AutoMod Discord Bot
 A **moderation and utility automation bot** built to manage and maintain the **Memact Discord community server**.
 
 ---
 
-## Organisations
+## 🏢 Organisations
 
-### Memact
+### 🏢 Memact
 An **open-source organisation** building a **user-controlled data and memory layer** for modern applications.
 
 > [!NOTE]
