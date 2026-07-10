@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About
-My social handle is **keeps loading** and I am most active on Discord and GitHub. My real name is **Sujay Sudhir**, and my brain "keeps loading" new project ideas. I am about to enter University as an undergraduate student soon, pursuing a BTech in Artificial Intelligence.
+My social handle is **keepsloading** and I am most active on Discord and GitHub. My real name is **Sujay Sudhir**, and my brain 'keeps loading' new project ideas. I am about to enter University as an undergraduate student soon, pursuing a BTech in Artificial Intelligence.
 
 ---
 
