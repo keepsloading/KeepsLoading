@@ -5,7 +5,7 @@
 <h1 align="center">Keeps Loading</h1>
 
 <p align="center">
-  <a href="https://github.com/keepsloading/CognitiveFirewall"><img src="https://img.shields.io/badge/Cognitive Firewall-004aad?style=for-the-badge&logo=github&logoColor=white" alt="Cognitive Firewall" /></a>
+  <a href="https://github.com/keepsloading/Cognitive Firewall"><img src="https://img.shields.io/badge/Cognitive Firewall-004aad?style=for-the-badge&logo=github&logoColor=white" alt="Cognitive Firewall" /></a>
   <a href="https://github.com/Memact"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&logo=github&logoColor=white" alt="Memact" /></a>
   <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Memact.com" /></a>
   <a href="https://discord.gg/WjKDeWuGy5"><img src="https://img.shields.io/badge/Memact_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Memact Discord" /></a>
@@ -30,3 +30,7 @@ A small Tkinter endless-runner prototype built in the first few minutes of the I
 
 **Memact AutoMod Discord Bot**  
 A moderation and utility bot built for the Memact Discord server.
+
+## 💡 Naming Context
+> [!NOTE]
+> I always liked the name **Boundier** and I named it at the hackathon. However, the name now suits for another project I built (an autonomous Discord bot). This project has been renamed from **Boundier** to **Cognitive Firewall** to make room for it.
