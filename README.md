@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keepsloading/keepsloading/main/assets/header.svg" alt="Keeps Loading" />
+  <img src="https://raw.githubusercontent.com/keepsloading/keepsloading/main/assets/header.svg?v=2" alt="Keeps Loading" />
 </p>
 
 <p align="center">
