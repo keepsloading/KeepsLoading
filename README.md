@@ -6,7 +6,7 @@
   <a href="https://github.com/keepsloading/Boundier"><img src="https://img.shields.io/badge/Boundier-000543?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Boundier" /></a>
   <a href="https://github.com/sorts-me"><img src="https://img.shields.io/badge/sorts%2Eme-000543?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="sorts.me" /></a>
   <a href="https://github.com/keepsloading/nudgement"><img src="https://img.shields.io/badge/Nudgement-181825?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Nudgement" /></a>
-  <a href="https://github.com/Memact"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Memact" /></a>
+  <a href="https://github.com/memact-archive"><img src="https://img.shields.io/badge/Memact-00011B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Memact" /></a>
   <a href="https://www.memact.com/"><img src="https://img.shields.io/badge/Memact.com-00011B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Memact.com (Broken)" /></a>
   <a href="https://discord.gg/WjKDeWuGy5"><img src="https://img.shields.io/badge/Memact_Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Memact Discord" /></a>
 </p>
